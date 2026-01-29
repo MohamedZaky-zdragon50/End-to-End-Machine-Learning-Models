@@ -24,8 +24,9 @@ Each notebook includes:
 ## 📌 Developed for:
 
 - Academic learning and practical implementation of Machine Learning concepts  
-- Building a strong Machine Learning portfolio  
-- Demonstrating hands-on experience with real-world datasets  
+Helwan University – Faculty of Computers & Artificial Intelligence
+Machine Learning
+Spring Semester 2025-2026
 
 ---
 
@@ -34,17 +35,16 @@ Each notebook includes:
 ML-Models-Showcase/
 │
 ├── datasets/
-│ ├── regression_dataset.csv
-│ ├── healthcare-dataset-stroke-data.csv
-│ └── clustering_dataset.csv
+│   ├── regression_dataset.csv
+│   ├── healthcare-dataset-stroke-data.csv
+│   └── clustering_dataset.csv
 │
 ├── notebooks/
-│ ├── Regression_Model.ipynb
-│ ├── Classification_Model.ipynb
-│ └── Clustering_Model.ipynb
+│   ├── Regression_Model.ipynb
+│   ├── Classification_Model.ipynb
+│   └── Clustering_Model.ipynb
 │
-└──  README.md
-
+└── README.md
 
 
 ---
